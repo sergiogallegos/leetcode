@@ -30,7 +30,7 @@ Each folder represents a problem and contains:
 
 | # | Problem | Difficulty | Python | C++ | Tags |
 |--:|---------|------------|--------|-----|------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ | ✅ | Hash Map |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ | ✅ | Array, Hash Map |
 
 
 ## 📄 License
