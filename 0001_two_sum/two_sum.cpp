@@ -42,3 +42,12 @@ int main() {
 
   cout << "All test cases passed." << endl;
 }
+
+
+/*
+ Study Note (C++):
+ - Problem Type: Array + Hash Map (Index Lookup)
+ - Strategy: Iterate trough vector and track complement using unordered_map
+ - Key C++ Concepts: vector, unordered_map, count()
+ - Time Complexity: O(n)
+ */ 

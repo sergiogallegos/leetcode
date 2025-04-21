@@ -28,3 +28,12 @@ if __name__ == "__main__":
     assert s.two_sum([3,3], 6) == [0,1]
 
     print("All test cases passed.")
+
+
+"""
+Study Note (Python):
+- Problem Type: Array + Hash Map (Index Lookup)
+- Strategy: Iterate while storing complement in dictionary
+- Key Python Concepts: dictionary (hash map), enumerate, dynamic typing
+- Time Complexity: O(n)
+"""
