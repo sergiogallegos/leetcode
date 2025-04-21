@@ -16,11 +16,11 @@ Each folder represents a problem and contains:
 
 ## 🚀 How to run locally
 
-in Python
+### Python
 cd 0001_two_sum
 python two_sum.py
 
-in C++
+### C++
 cd 0001_two_sum
 g++ two_sum.cpp -o two_sum
 ./two_sum
