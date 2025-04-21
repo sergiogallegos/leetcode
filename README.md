@@ -35,4 +35,5 @@ Each folder represents a problem and contains:
 
 ## 📄 License
 
-MIT License. Use, fork, and share freely.
+This repository is licensed under the [MIT License](LICENSE).
+Feel free to use or fork for learning or personal use.
