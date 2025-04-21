@@ -17,13 +17,13 @@ Each folder represents a problem and contains:
 ## 🚀 How to run locally
 
 ### Python
-cd 0001_two_sum
-python two_sum.py
+- cd 0001_two_sum
+- python two_sum.py
 
 ### C++
-cd 0001_two_sum
-g++ two_sum.cpp -o two_sum
-./two_sum
+- cd 0001_two_sum
+- g++ two_sum.cpp -o two_sum
+- ./two_sum
 
 
 ## 📊 Progress
@@ -31,3 +31,8 @@ g++ two_sum.cpp -o two_sum
 | # | Problem | Difficulty | Python | C++ | Tags |
 |--:|---------|------------|--------|-----|------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ | ✅ | Hash Map |
+
+
+## 📄 License
+
+MIT License. Use, fork, and share freely.
