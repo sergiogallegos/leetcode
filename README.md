@@ -1,15 +1,15 @@
-# 💡 LeetCode Practice - Python & C++
+# 💡 LeetCode Practice
 
 ## 🚀 Description
 
-This repository contains my personal solutions to LeetCode problems
-written in **Python** and **C++**, I use this as a way to practice
-algorithms, data structures and improve my problem solving skills.
+This repository contains my personal solutions to LeetCode problems.
+I use this as a way to practice algorithms, data structures and improve 
+my problem solving skills.
 
 ## 🚀 Folder Structure
 
 Each folder represents a problem and contains:
-- ✅ Python and C++ Solution.
+- ✅ Solutions.
 - ✅ Problem description in 'README.md'.
 - ✅ Test cases for local validation.
 
