@@ -37,6 +37,7 @@ Each folder represents a problem and contains:
 | # | Problem | Difficulty | Python | C++ | Zig | Tags |
 |--:|---------|------------|--------|-----|-----|------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ | ✅ | ✅ | Array, Hash Map |
+| 2 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | ✅ | ✅ | ✅ | Array, Hash Set |
 
 
 ## 📄 License
