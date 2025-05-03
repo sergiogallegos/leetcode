@@ -34,9 +34,9 @@ Each folder represents a problem and contains:
 
 ## 📊 Progress
 
-| # | Problem | Difficulty | Python | C++ | Tags |
-|--:|---------|------------|--------|-----|------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ | ✅ | Array, Hash Map |
+| # | Problem | Difficulty | Python | C++ | Zig | Tags |
+|--:|---------|------------|--------|-----|-----|------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ | ✅ | ✅ | Array, Hash Map |
 
 
 ## 📄 License
