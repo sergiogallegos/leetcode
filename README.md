@@ -9,7 +9,7 @@ my problem solving skills.
 ## 🚀 Folder Structure
 
 Each folder represents a problem and contains:
-- ✅ Solutions.
+- ✅ Solutions (Python, C++, Zig)
 - ✅ Problem description in 'README.md'.
 - ✅ Test cases for local validation.
 
@@ -22,8 +22,14 @@ Each folder represents a problem and contains:
 
 ### C++
 - cd 0001_two_sum
-- g++ two_sum.cpp -o two_sum
+- g++ two_sum.cpp -o two_sum_cc
+- ./two_sum_cc
+
+### Zig
+- cd 0001_two_sum
+- zig build-exe two_sum.zig
 - ./two_sum
+- or, zig run two_sum.zig
 
 
 ## 📊 Progress
