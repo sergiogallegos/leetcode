@@ -3,11 +3,12 @@ const std = @import("std");
 pub fn main() void {
     const allocator = std.heap.page_allocator;
 
-    testCase(allocator, &.{2, 7, 11, 15}, 9, .{0, 1});
-    testCase(allocator, &.{3, 2, 4}, 6, .{1, 2});
-    testCase(allocator, &.{3, 3}, 6, .{0, 1});
+    testCase(allocator, &.{ 2, 7, 11, 15 }, 9, .{ 0, 1 });
+    testCase(allocator, &.{ 3, 2, 4 }, 6, .{ 1, 2 });
+    testCase(allocator, &.{ 3, 3 }, 6, .{ 0, 1 });
 
     std.debug.print("All test cases passed(zig).\n", .{});
+    std.debug.print("Happy Coding!\n", .{});
 }
 
 fn findTwoSum(allocator: std.mem.Allocator, nums: []const i32, target: i32) ?[2]usize {
@@ -17,7 +18,7 @@ fn findTwoSum(allocator: std.mem.Allocator, nums: []const i32, target: i32) ?[2]
     for (nums, 0..) |num, i| {
         const complement = target - num;
         if (map.get(complement)) |j| {
-            return .{j, i};
+            return .{ j, i };
         }
         map.put(num, i) catch return null;
     }
@@ -36,8 +37,6 @@ fn testCase(allocator: std.mem.Allocator, nums: []const i32, target: i32, expect
         @panic("Test failed: No result found");
     }
 }
-
-
 
 // Problem Type: Array + Hash Map (Index Lookup)
 // Strategy: Iterate over array, track complement using AutoHashMap from std lib
