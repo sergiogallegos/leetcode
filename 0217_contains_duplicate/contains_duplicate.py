@@ -28,7 +28,6 @@ if __name__ == "__main__":
 
 
 """
-Study Note (Python):
 - Problem Type: Array + Set
 - Strategy: Track seen elements using hash set (set())
 - Key Python Concepts: set()

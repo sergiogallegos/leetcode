@@ -43,7 +43,6 @@ int main() {
 
 
 /*
- Study Note (C++):
  - Problem Type: Array + Hash Set
  - Strategy: Use unordered_set to track seen elements
  - Key C++ Concepts: vector, unordered_set

@@ -31,7 +31,6 @@ if __name__ == "__main__":
 
 
 """
-Study Note (Python):
 - Problem Type: Array + Hash Map (Index Lookup)
 - Strategy: Iterate while storing complement in dictionary
 - Key Python Concepts: dictionary (hash map), enumerate, dynamic typing
