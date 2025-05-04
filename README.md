@@ -9,7 +9,7 @@ my problem solving skills.
 ## 🚀 Folder Structure
 
 Each folder represents a problem and contains:
-- ✅ Solutions (Python, C++, Zig)
+- ✅ Solutions (Python, C++)
 - ✅ Problem description in 'README.md'.
 - ✅ Test cases for local validation.
 
@@ -25,19 +25,13 @@ Each folder represents a problem and contains:
 - g++ two_sum.cpp -o two_sum_cc
 - ./two_sum_cc
 
-### Zig
-- cd 0001_two_sum
-- zig build-exe two_sum.zig
-- ./two_sum
-- or, zig run two_sum.zig
-
 
 ## 📊 Progress
 
-| # | Problem | Difficulty | Python | C++ | Zig | Tags |
-|--:|---------|------------|--------|-----|-----|------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ | ✅ | ✅ | Array, Hash Map |
-| 2 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | ✅ | ✅ | ✅ | Array, Hash Set |
+| # | Problem | Difficulty | Python | C++ | Tags |
+|--:|---------|------------|--------|-----|------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ | ✅ | Array, Hash Map |
+| 2 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | ✅ | ✅ | Array, Hash Set |
 
 
 ## 📄 License
