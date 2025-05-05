@@ -9,7 +9,7 @@ my problem solving skills.
 ## 🚀 Folder Structure
 
 Each folder represents a problem and contains:
-- ✅ Solutions (Python, C++)
+- ✅ Solutions(Python, C++, Zig, Rust, Go)
 - ✅ Problem description in 'README.md'.
 - ✅ Test cases for local validation.
 
